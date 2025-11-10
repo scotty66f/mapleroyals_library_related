@@ -2801,66 +2801,12 @@
       "id": {
         "_dirName": "id",
         "_dirType": "string",
-        "_value": "9209007"
+        "_value": "9201142"
       },
       "x": {
         "_dirName": "x",
         "_dirType": "int",
-        "_value": 732
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": 340
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "hide": {
-        "_dirName": "hide",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "fh": {
-        "_dirName": "fh",
-        "_dirType": "int",
-        "_value": 23
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 340
-      },
-      "rx0": {
-        "_dirName": "rx0",
-        "_dirType": "int",
-        "_value": 682
-      },
-      "rx1": {
-        "_dirName": "rx1",
-        "_dirType": "int",
-        "_value": 782
-      }
-    },
-    "5": {
-      "_dirName": "5",
-      "_dirType": "sub",
-      "type": {
-        "_dirName": "type",
-        "_dirType": "string",
-        "_value": "n"
-      },
-      "id": {
-        "_dirName": "id",
-        "_dirType": "string",
-        "_value": "9200001"
-      },
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": 860
+        "_value": 819
       },
       "y": {
         "_dirName": "y",
@@ -2890,12 +2836,12 @@
       "rx0": {
         "_dirName": "rx0",
         "_dirType": "int",
-        "_value": 810
+        "_value": 769
       },
       "rx1": {
         "_dirName": "rx1",
         "_dirType": "int",
-        "_value": 910
+        "_value": 869
       }
     }
   },
