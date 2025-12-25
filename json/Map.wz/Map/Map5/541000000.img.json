@@ -1537,60 +1537,6 @@
         "_dirType": "int",
         "_value": -2343
       }
-    },
-    "6": {
-      "_dirName": "6",
-      "_dirType": "sub",
-      "type": {
-        "_dirName": "type",
-        "_dirType": "string",
-        "_value": "n"
-      },
-      "id": {
-        "_dirName": "id",
-        "_dirType": "string",
-        "_value": "9201142"
-      },
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": -1278
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": 85
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "hide": {
-        "_dirName": "hide",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "fh": {
-        "_dirName": "fh",
-        "_dirType": "int",
-        "_value": 132
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 85
-      },
-      "rx0": {
-        "_dirName": "rx0",
-        "_dirType": "int",
-        "_value": -1328
-      },
-      "rx1": {
-        "_dirName": "rx1",
-        "_dirType": "int",
-        "_value": -1228
-      }
     }
   },
   "reactor": {
