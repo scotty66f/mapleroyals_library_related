@@ -71,18 +71,565 @@
       "_dirName": "VRRight",
       "_dirType": "int",
       "_value": 2830
-    },
-    "snow": {
-      "_dirName": "snow",
-      "_dirType": "int",
-      "_value": 1
     }
   },
   "back": {
     "_dirName": "back",
     "_dirType": "sub",
+    "0": {
+      "_dirName": "0",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "1": {
+      "_dirName": "1",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 43
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -36
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 1
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "2": {
+      "_dirName": "2",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 2
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -282
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 100
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 2
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -2
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 900
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "3": {
+      "_dirName": "3",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 123
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -219
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -3
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1500
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "4": {
+      "_dirName": "4",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 307
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -124
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -4
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1300
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "5": {
+      "_dirName": "5",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 5
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -253
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -129
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 5
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -5
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1100
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
     "7": {
       "_dirName": "7",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 7
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 341
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -309
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 6
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -6
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 800
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "9": {
+      "_dirName": "9",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 9
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -257
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 141
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 3
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -15
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "10": {
+      "_dirName": "10",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -150,8 +697,8 @@
         "_value": 0
       }
     },
-    "8": {
-      "_dirName": "8",
+    "11": {
+      "_dirName": "11",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -219,8 +766,8 @@
         "_value": 0
       }
     },
-    "9": {
-      "_dirName": "9",
+    "12": {
+      "_dirName": "12",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -288,8 +835,77 @@
         "_value": 0
       }
     },
-    "10": {
-      "_dirName": "10",
+    "13": {
+      "_dirName": "13",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 13
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -218
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": 148
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -60
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 4
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "14": {
+      "_dirName": "14",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -357,8 +973,8 @@
         "_value": 0
       }
     },
-    "11": {
-      "_dirName": "11",
+    "15": {
+      "_dirName": "15",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -426,8 +1042,8 @@
         "_value": 0
       }
     },
-    "13": {
-      "_dirName": "13",
+    "17": {
+      "_dirName": "17",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -495,8 +1111,8 @@
         "_value": 0
       }
     },
-    "14": {
-      "_dirName": "14",
+    "18": {
+      "_dirName": "18",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -564,8 +1180,77 @@
         "_value": 0
       }
     },
-    "12": {
-      "_dirName": "12",
+    "6": {
+      "_dirName": "6",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 6
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": 43
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -184
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 6
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -6
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 1000
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "16": {
+      "_dirName": "16",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -633,8 +1318,77 @@
         "_value": 0
       }
     },
-    "15": {
-      "_dirName": "15",
+    "8": {
+      "_dirName": "8",
+      "_dirType": "sub",
+      "bS": {
+        "_dirName": "bS",
+        "_dirType": "string",
+        "_value": "skyStation"
+      },
+      "front": {
+        "_dirName": "front",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "ani": {
+        "_dirName": "ani",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "no": {
+        "_dirName": "no",
+        "_dirType": "int",
+        "_value": 8
+      },
+      "x": {
+        "_dirName": "x",
+        "_dirType": "int",
+        "_value": -349
+      },
+      "y": {
+        "_dirName": "y",
+        "_dirType": "int",
+        "_value": -42
+      },
+      "rx": {
+        "_dirName": "rx",
+        "_dirType": "int",
+        "_value": 7
+      },
+      "ry": {
+        "_dirName": "ry",
+        "_dirType": "int",
+        "_value": -7
+      },
+      "type": {
+        "_dirName": "type",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "cx": {
+        "_dirName": "cx",
+        "_dirType": "int",
+        "_value": 700
+      },
+      "cy": {
+        "_dirName": "cy",
+        "_dirType": "int",
+        "_value": 0
+      },
+      "a": {
+        "_dirName": "a",
+        "_dirType": "int",
+        "_value": 255
+      },
+      "f": {
+        "_dirName": "f",
+        "_dirType": "int",
+        "_value": 0
+      }
+    },
+    "19": {
+      "_dirName": "19",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -702,8 +1456,8 @@
         "_value": 0
       }
     },
-    "16": {
-      "_dirName": "16",
+    "20": {
+      "_dirName": "20",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -771,8 +1525,8 @@
         "_value": 0
       }
     },
-    "17": {
-      "_dirName": "17",
+    "21": {
+      "_dirName": "21",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -840,8 +1594,8 @@
         "_value": 0
       }
     },
-    "18": {
-      "_dirName": "18",
+    "22": {
+      "_dirName": "22",
       "_dirType": "sub",
       "bS": {
         "_dirName": "bS",
@@ -907,489 +1661,6 @@
         "_dirName": "f",
         "_dirType": "int",
         "_value": 0
-      }
-    },
-    "0": {
-      "_dirName": "0",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": 19
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": -218
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 3
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "snowyDarkrock"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 0
-      }
-    },
-    "1": {
-      "_dirName": "1",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": -132
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": 162
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": -5
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": -10
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 1
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "snowyDarkrock"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 1
-      }
-    },
-    "2": {
-      "_dirName": "2",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": -18
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": -125
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": -5
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 1
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "snowyDarkrock"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 1
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 4
-      }
-    },
-    "3": {
-      "_dirName": "3",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": -73
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": -114
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": -5
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": -11
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "snowyDarkrock"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 2
-      }
-    },
-    "4": {
-      "_dirName": "4",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": -356
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": -242
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": -15
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": -33
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 1600
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 4
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "snowyDarkrock"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 1
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 3
-      }
-    },
-    "5": {
-      "_dirName": "5",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": 92
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": -208
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": 1
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": -12
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 1000
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 4
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "darkMountain"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 4
-      }
-    },
-    "6": {
-      "_dirName": "6",
-      "_dirType": "sub",
-      "x": {
-        "_dirName": "x",
-        "_dirType": "int",
-        "_value": 646
-      },
-      "y": {
-        "_dirName": "y",
-        "_dirType": "int",
-        "_value": -137
-      },
-      "rx": {
-        "_dirName": "rx",
-        "_dirType": "int",
-        "_value": 1
-      },
-      "ry": {
-        "_dirName": "ry",
-        "_dirType": "int",
-        "_value": -12
-      },
-      "cx": {
-        "_dirName": "cx",
-        "_dirType": "int",
-        "_value": 1200
-      },
-      "cy": {
-        "_dirName": "cy",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "a": {
-        "_dirName": "a",
-        "_dirType": "int",
-        "_value": 255
-      },
-      "type": {
-        "_dirName": "type",
-        "_dirType": "int",
-        "_value": 4
-      },
-      "front": {
-        "_dirName": "front",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "f": {
-        "_dirName": "f",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "bS": {
-        "_dirName": "bS",
-        "_dirType": "string",
-        "_value": "darkMountain"
-      },
-      "ani": {
-        "_dirName": "ani",
-        "_dirType": "int",
-        "_value": 0
-      },
-      "no": {
-        "_dirName": "no",
-        "_dirType": "int",
-        "_value": 5
       }
     }
   },
